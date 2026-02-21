@@ -53,7 +53,7 @@ groq_text_coding/
 1. **Clone the repo**  
 
 ```bash
-git clone <https://github.com/Chintan1545/-Multi-Agent-AI-Coding-System/tree/main>
+git clone https://github.com/Chintan1545/-Multi-Agent-AI-Coding-System.git
 cd groq_text_coding
 ````
 
